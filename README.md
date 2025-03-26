@@ -1,1 +1,1 @@
-#Template README.md
+Appunti del corso Metodi probabilistici della ricerca operativa
